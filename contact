@@ -1,0 +1,91 @@
+<div class="page-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 text-center">
+        <h1 class="page-title">Contact Us</h1>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-md-6">
+      <h2>Alaqua Lakes</h2>
+      <p>3386 Lakeview Oaks Drive, Longwood, FL 32779<br />Phone: <a href="tel:14079156001" class="btn-link">407-915-6001</a><br />Email: <a href="mailto:manager@alaqualakes.com" class="btn-link">manager@alaqualakes.com</a></p>
+      <h2>Association Manager</h2>
+      <img style="width:100%;max-width:250px;margin-bottom:1em;" src="/ckeditor_assets/pictures/20291/content_lisa_gonzalez.png" />
+      <p>Lisa Gonzalez<br />Phone: <a href="tel:13864390407" class="btn-link">(386) 439-0407</a><br /><a class="btn-link" href="mailto:lgonzalez@lelandmanagement.com">lgonzalez@lelandmanagement.com</a></p>
+      <h2>Property Management</h2>
+      <p>Leland Management<br />6972 lake Gloria Blvd., Orlando, FL 32809<br />Phone: <a href="tel:14074479955" class="btn-link">(407) 447-9955</a><br /><a href="https://lelandmgt.com" class="btn-link"  target="_blank">https://lelandmgt.com</a></p>
+      <p>For assistance with account or payment issues, please contact resident support. Our support department is open Monday to Friday from 9 am to 5 pm. <a href="tel:14077811188" class="btn-link">(407) 781-1188</a></p>
+      <div class="spacer visible-xs visible-sm hidden-md"></div>
+    </div>
+    <div class="col-xs-12 col-md-6 col-lg-5 col-lg-offset-1">
+      <h2>Additional Important Contacts</h2>
+      <p>Emergency:  911</p>
+      <p>Guard Gate:  407-444-9966</p>
+      <p>Automated call in: 407-444-0581</p>
+      <p>Legacy Club:   407-444-9995</p>
+      <p>Legacy Club Grille:    407-444-6009</p>
+      <p>Pavilion/Community Park:   407-915-6001</p>
+    </div>
+  </div>
+</div>
+<div class="fwb-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-lg-10 col-lg-offset-1">
+        <h1 class="text-center">Get in touch!</h1>
+        <br>
+        <form class="eform_form" id="new_sent_eform" enctype="multipart/form-data" action="/community_contact/send_eform" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="fYbaddBqkemLLaNKTRpR28zwFjTozeFoFztfEcMXrZkNFIXf16AtONN0xcQHSqgJCRJouIMOpH9Xb4BYmBu89w==">
+          <input type="hidden" name="sent_eform[eform_id]" id="sent_eform_eform_id" value="2745">
+          <div class="col-xs-12 col-md-6">
+            <label class="efield_label " for="sent_eform_first_name">First Name *</label>
+            <input type="text" name="sent_eform[first_name]" id="sent_eform_first_name" class="form-control efield_input " style="height:30px; margin-bottom:1.5em;" required="required">
+          </div>
+          <div class="col-xs-12 col-md-6">
+            <label class="efield_label " for="sent_eform_last_name">Last Name *</label>
+            <input type="text" name="sent_eform[last_name]" id="sent_eform_last_name" class="form-control efield_input " style="height:30px; margin-bottom:1.5em;" required="required">
+          </div>
+          <div class="col-xs-12 col-md-6">
+            <label class="efield_label " for="sent_eform_email_address">Email Address *</label><br>
+            <input type="email" name="sent_eform[email_address]" id="sent_eform_email" required="required" class="efield_input " style="height:30px; margin-bottom:1.5em; width:100%">
+          </div>
+          <div class="col-xs-12 col-md-6">
+            <label class="efield_label " for="sent_eform_phone_number">Phone Number</label><br>
+            <input type="text" name="sent_eform[phone_number]" id="sent_eform_phone" class="phone efield_input " style="height:30px; margin-bottom:1.5em; width:100%">
+          </div>
+          <div class="col-xs-12">
+            <label class="efield_label " for="sent_eform_message">Message *</label>
+            <textarea name="sent_eform[message]" id="sent_eform_message" class="form-control efield_input " style="height:125px; margin-bottom:1.5em;" cols="35" required="required" rows="3"></textarea>
+          </div>
+          <div class="col-xs-12">
+            <input type="submit" name="commit" value="Send" class="btn btn-info btn-lg" id="button" style="width:35%">
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+<div>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3497.8740435230984!2d-81.39274738450298!3d28.75317738536047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e77323f2746719%3A0xfb4371e29a9fc96!2s3386%20Lakeview%20Oaks%20Dr%2C%20Longwood%2C%20FL%2032779!5e0!3m2!1sen!2sus!4v1613691374711!5m2!1sen!2sus" width="100%" height="500" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+</div>
+<!--footer-->
+<div class="footer-quote" style="margin-top: -6px;">
+  <div class="container">
+    <div class="row" style="padding-bottom:0;">
+      <div class="col-xs-12 col-md-8 col-md-offset-2">
+        <p class="footer-quote-text" style="font-family: 'Crimson Pro', serif !important;">Located in the heart of central Florida, Alaqua Lakes has all of the amenities you expect in a premier community</p>
+        <p class="footer-quote-sub-text">Welcome Home - There's no place like this!</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="footer">
+  <div class="container">
+    <div class="col-xs-12 text-center">
+      <p>3386 Lakeview Oaks Dr., Longwood, FL 32779<br />407-915-6001 | manager@alaqualakes.com</p>
+      <img class="footer-img" src="/system/communities/logo_images/000/001/330/original/al-logo-small.jpg?1613084739" alt="Alaqua Lakes" />
+    </div>
+  </div>
+</div>

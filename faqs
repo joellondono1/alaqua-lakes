@@ -1,0 +1,123 @@
+<div class="page-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 text-center">
+        <h1 class="page-title">Frequently Asked Questions</h1>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-md-8 mb-3">
+      <h3 style="text-align:left;margin-top:0;">Website Questions</h3>
+      <div class="panel-group" id="accordion" role="tablist">
+        <div class="panel panel-default faq">
+          <div class="panel-heading faq-heading" role="tab">
+            <p class="panel-title faq-title"><a aria-expanded="false" class="panel-toggle" data-parent="#accordion" data-toggle="collapse" href="#website-1" role="button">I am a new homeowner, how do I register for an account?<i class="fas fa-plus"></i><i class="fas fa-minus"></i></a></p>
+          </div>
+          <div class="panel-collapse collapse" id="website-1" role="tabpanel">
+            <div class="panel-body faq-body">Registration is easy. All you need is your account number and a valid email address. You can find your account number on your coupon book, or you can request it online on the login page. Once you have the required information, select 'register for a login' on the login page and follow the prompts. If you experience issues with registration, please contact resident support.</div>
+          </div>
+        </div>
+        <div class="panel panel-default faq">
+          <div class="panel-heading faq-heading" role="tab">
+            <p class="panel-title faq-title"><a aria-expanded="false" class="panel-toggle" data-parent="#accordion" data-toggle="collapse" href="#website-2" role="button">Having login trouble? Forgot password or username?<i class="fas fa-plus"></i><i class="fas fa-minus"></i></a></p>
+          </div>
+          <div class="panel-collapse collapse" id="website-2" role="tabpanel">
+            <div class="panel-body faq-body">If you forgot your password or username, you can recover them automatically by selecting the 'reset password' or 'forgot username' options on the login page. If you are still experiencing issues, please contact resident support.</div>
+          </div>
+        </div>
+        <div class="panel panel-default faq">
+          <div class="panel-heading faq-heading" role="tab">
+            <p class="panel-title faq-title"><a aria-expanded="false" class="panel-toggle" data-parent="#accordion" data-toggle="collapse" href="#website-3" role="button">How do I show/hide my information in the online address book?<i class="fas fa-plus"></i><i class="fas fa-minus"></i></a></p>
+          </div>
+          <div class="panel-collapse collapse" id="website-3" role="tabpanel">
+            <div class="panel-body faq-body">Go to my account > profile, scroll down and check or uncheck the opt-in box under the community address book section. After, make sure you scroll down and save your changes.</div>
+          </div>
+        </div>
+        <div class="panel panel-default faq">
+          <div class="panel-heading faq-heading" role="tab">
+            <p class="panel-title faq-title"><a aria-expanded="false" class="panel-toggle" data-parent="#accordion" data-toggle="collapse" href="#website-4" role="button">How do I subscribe/unsubscribe to community emails?<i class="fas fa-plus"></i><i class="fas fa-minus"></i></a></p>
+          </div>
+          <div class="panel-collapse collapse" id="website-4" role="tabpanel">
+            <div class="panel-body faq-body">To subscribe: Log in, and fill out the form on the bottom of the homepage. Or, log in, and go to my account > profile. Under the email section, add an email address and save your changes. once your email is added, you will see a section labelled "settings for [youremail]." Check the boxes to select which types of emails you would like to receive, then save your changes.<br /><br>To unsubscribe: Log in to your account: go to My account > profile. Under the section labelled "settings for [youremail]", uncheck all the boxes, then save your changes.</div>
+          </div>
+        </div>
+      </div>
+      <div class="spacer" style="padding: 1.2em;"></div>
+      <div class="panel-group" role="tablist">
+        <h3>Association Questions</h3>
+        <div class="panel panel-default faq">
+          <div class="panel-heading faq-heading" role="tab">
+            <p class="panel-title faq-title"><a aria-expanded="false" class="panel-toggle" data-parent="#accordion" data-toggle="collapse" href="#collapse1" role="button">I received a violation letter. What do I do?<i class="fas fa-plus"></i><i class="fas fa-minus"></i></a></h2>
+          </div>
+          <div class="panel-collapse collapse" id="collapse1" role="tabpanel">
+            <div class="panel-body faq-body">Try to correct the violation. Refer to our Covenant Guidelines for a clearer description, or call your community association manager for assistance.</div>
+          </div>
+        </div>
+        <div class="panel panel-default faq">
+          <div class="panel-heading faq-heading" role="tab">
+            <p class="panel-title faq-title"><a aria-expanded="false" class="panel-toggle" data-parent="#accordion" data-toggle="collapse" href="#collapse3" role="button">I am late on my assessment dues. What should I do?<i class="fas fa-plus"></i><i class="fas fa-minus"></i></a></h2>
+          </div>
+          <div class="panel-collapse collapse" id="collapse3" role="tabpanel">
+            <div class="panel-body faq-body">Call Community Management ASAP and explain your situation. They will direct you to pay online. Depending on how late you are, you may qualify for a one-time waiver of late fees and interest.</div>
+          </div>
+        </div>
+        <div class="panel panel-default faq">
+          <div class="panel-heading faq-heading" role="tab">
+            <p class="panel-title faq-title"><a aria-expanded="false" class="panel-toggle" data-parent="#accordion" data-toggle="collapse" href="#collapse4" role="button">What is an assessment?<i class="fas fa-plus"></i><i class="fas fa-minus"></i></a></h2>
+          </div>
+          <div class="panel-collapse collapse" id="collapse4" role="tabpanel">
+            <div class="panel-body faq-body">Homeowner associations can compel homeowners to pay a share of common expenses, usually per-unit or based on square footage. These expenses generally arise from common property, which varies dramatically depending on the type of association. Some associations are, quite literally, towns, complete with private roads, services, utilities, amenities, community buildings, pools, and even schools. Many condominium associations consider the roofs and exteriors of the structures as the responsibility of the association. Other associations have no common property, but may charge for services or other matters.</div>
+          </div>
+        </div>
+        <div class="panel panel-default faq">
+          <div class="panel-heading faq-heading" role="tab">
+            <p class="panel-title faq-title"><a aria-expanded="false" class="panel-toggle" data-parent="#accordion" data-toggle="collapse" href="#collapse5" role="button">Are &#39;dues&#39; different than &#39;assessments&#39;?<i class="fas fa-plus"></i><i class="fas fa-minus"></i></a></h2>
+          </div>
+
+          <div class="panel-collapse collapse" id="collapse5" role="tabpanel">
+            <div class="panel-body faq-body">A predetermined set of fees usually referred to as &#39;Dues&#39; are collected by HOAs, Community Associations, or divisions of property management for the upkeep of said organizations or neighborhoods in general. These fees are billed at intervals, sometimes by month, quarter, or annually.</div>
+          </div>
+        </div>
+        <div class="panel panel-default faq">
+          <div class="panel-heading faq-heading" role="tab">
+            <p class="panel-title faq-title"><a aria-expanded="false" class="panel-toggle" data-parent="#accordion" data-toggle="collapse" href="#collapse12" role="button">Does my community have an association management company?<i class="fas fa-plus"></i><i class="fas fa-minus"></i></a></h2>
+          </div>
+          <div class="panel-collapse collapse" id="collapse12" role="tabpanel">
+            <div class="panel-body faq-body">Our community is Managed by Leland Management. If you need to contact the management company for any reason, you can find their contact information on the Contact Us page.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-md-4">
+      <div class="panel panel-default">
+        <div class="panel-body" style="padding:1.3em;">
+          <h3 style="margin-top:0;">Can't find an answer?</h3>
+          <p>Contact our support department. Call (407) 781-1188 or email <a class="btn-link" href="mailto:residentsupport@lelandmanagement.com"><span style="word-break: break-word;">residentsupport@lelandmanagement.com<span></a>. Or, click the button below to contact your assocation manager.</p>
+          <a class="btn btn-info btn-lg" id="email-cam" data-target="#contact-modal" data-toggle="modal" href="#">Contact us</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!--footer-->
+<div class="footer-quote">
+  <div class="container">
+    <div class="row" style="padding-bottom:0;">
+      <div class="col-xs-12 col-md-8 col-md-offset-2">
+        <p class="footer-quote-text" style="font-family: 'Crimson Pro', serif !important;">Located in the heart of central Florida, Alaqua Lakes has all of the amenities you expect in a premier community</p>
+        <p class="footer-quote-sub-text">Welcome Home - There's no place like this!</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="footer">
+  <div class="container">
+    <div class="col-xs-12 text-center">
+      <p>3386 Lakeview Oaks Dr., Longwood, FL 32779<br />407-915-6001 | manager@alaqualakes.com</p>
+      <img class="footer-img" src="/system/communities/logo_images/000/001/330/original/al-logo-small.jpg?1613084739" alt="Alaqua Lakes" />
+    </div>
+  </div>
+</div>

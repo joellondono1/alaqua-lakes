@@ -1,0 +1,64 @@
+<div class="page-header" style="margin-bottom: 0">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 text-center">
+        <h1 class="page-title">HOA</h1>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container-fluid">
+  <div class="row hoa-row">
+    <div class="col-xs-12 col-md-6 col-lg-5 col-lg-offset-1">
+      <h2>Homeowners Association</h2>
+      <hr />
+      <p>The Alaqua Lakes Community Association Inc. is the homeowner's Association (HOA) for Alaqua Lakes. It functions both as the legal governing entity (a not-for-profit Florida corporation) and the overall property manager for our community. The legal definition of the Association, along with the community's Covenants, conditions, restrictions, and easements, are outlined within the Alaqua Lakes governing documents available on this website under "Your Association". The HOA's purpose is to maintain the common property, oversee the business activities, and enforce the covenants and conditions, restrictions, and easements of Alaqua Lakes.</p>
+      <p>An elected Board of Directors governs the HOA, and the day-to-day management of the community is outsourced to a commercial property management company, currently Sentry Management. Our Community Association Manager from Sentry Management is Lindsey Thigpen. Several standing committees assist the Board of Directors in carrying out their duties by overseeing various functions that are important to the community. Since the Board approves and oversees all committee activities, a Board member is generally assigned as Chairman for each committee and is responsible for keeping the Board up to date on the committee's activities.</p>
+    </div>
+    <div class="col-xs-12 col-md-6 col-lg-6 col-lg-offset-1 hoa-div hoa">
+    </div>
+  </div>
+</div>
+<div class="spacer"></div>
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <h2>Association Committees</h2>
+      <p>Generally, the committees meet monthly and are open to residents who wish to attend. Meeting schedules for both the Board and the committees are available on this Website.</p>
+      <h3>Architecture Review</h3>
+      <p>Architecture Review: This Committee is responsible for reviewing homeowner requests for exterior architectural and landscape changes to their property. Property owners cannot make exterior changes to their property without approval from this committee. All exterior property changes, including paint colors and landscape trees, plants, and beds, must be approved. The ARC meets monthly, on the 4th Wednesday of each month at 6:00 PM at the Legacy Club, unless otherwise posted.</p>
+      <h3>Communications</h3>
+      <p>This Committee is responsible for the development and maintenance of both the community Newsletter and the Website. The newsletter is published quarterly and is mailed to residents and posted on the Website. The Website is a virtual information source for community announcements, information, events, and collaborative communication regarding Alaqua Lakes.</p>
+      <h3>Finance</h3>
+      <p>This Committee is responsible for the HOA's financial activities, including all income statement and balance sheet activities, including assessment collections and expenses. The Management company manages the day-to-day accounting functions.</p>
+      <h3>Grounds and Infrastructure</h3>
+      <p>This Committee is responsible for maintaining all common property in the community, including streets, street lights, front gatehouse, park and Pavilion, and all common landscaping.</p>
+      <h3>Legal and Bylaws</h3>
+      <p>This Committee is responsible for maintaining the HOA's legal activities and bylaws, including covenant enforcement.</p>
+      <h3>Park and Recreation</h3>
+      <p>This Committee is responsible for the community park and all of its amenities, including the pool, Pavilion, and picnic areas, tennis courts, sports field, volleyball court, and playground equipment. This committee is also responsible for all park recreation activities and community-sponsored social activities.</p>
+      <h3>Security</h3>
+      <p>This Committee is responsible for the security and public safety activities within the community, including the front gate, community access policies and procedures, and coordination with area public safety agencies (police, sheriff, fire, rescue, wildlife, animal control, etc.)</p>
+    </div>
+  </div>
+</div>
+<div class="parallax sign-parallax"></div>
+<!--footer-->
+<div class="footer-quote" style="margin-top:-30px;">
+  <div class="container">
+    <div class="row" style="padding-bottom:0;">
+      <div class="col-xs-12 col-md-8 col-md-offset-2">
+        <p class="footer-quote-text" style="font-family: 'Crimson Pro', serif !important;">Located in the heart of central Florida, Alaqua Lakes has all of the amenities you expect in a premier community</p>
+        <p class="footer-quote-sub-text">Welcome Home - There's no place like this!</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="footer">
+  <div class="container">
+    <div class="col-xs-12 text-center">
+      <p>3386 Lakeview Oaks Dr., Longwood, FL 32779<br />407-915-6001 | manager@alaqualakes.com</p>
+      <img class="footer-img" src="/system/communities/logo_images/000/001/330/original/al-logo-small.jpg?1613084739" alt="Alaqua Lakes" />
+    </div>
+  </div>
+</div>

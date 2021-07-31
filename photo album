@@ -1,0 +1,83 @@
+<div class="page-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 text-center">
+        <h1 class="page-title">Photo Gallery</h1>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-xs-6 col-sm-4 col-md-3"><div class="album-thumb-container"><img class="album-thumb" onclick="openModal();currentSlide(1)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19726/content_2020-02-17-02_19_13.jpg" /></div></div>
+    <div class="col-xs-6 col-sm-4 col-md-3"><div class="album-thumb-container"><img class="album-thumb" onclick="openModal();currentSlide(2)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19728/content_2020-02-17-02_19_28.jpg" /></div></div>
+    <div class="col-xs-6 col-sm-4 col-md-3"><div class="album-thumb-container"><img class="album-thumb" onclick="openModal();currentSlide(3)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19727/content_2020-02-17-02_21_02.jpg" /></div></div>
+    <div class="col-xs-6 col-sm-4 col-md-3"><div class="album-thumb-container"><img class="album-thumb" onclick="openModal();currentSlide(4)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19729/content_2020-02-17-02_21_29.jpg" /></div></div>
+    <div class="col-xs-6 col-sm-4 col-md-3"><div class="album-thumb-container"><img class="album-thumb" onclick="openModal();currentSlide(5)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19730/content_2020-02-17-02_22_00.jpg" /></div></div>
+    <div class="col-xs-6 col-sm-4 col-md-3"><div class="album-thumb-container"><img class="album-thumb" onclick="openModal();currentSlide(6)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19731/content_2020-02-17-02_23_19.jpg" /></div></div>
+    <div class="col-xs-6 col-sm-4 col-md-3"><div class="album-thumb-container"><img class="album-thumb" onclick="openModal();currentSlide(7)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19732/content_2020-02-17-02_23_38.jpg" /></div></div>
+    <div class="col-xs-6 col-sm-4 col-md-3"><div class="album-thumb-container"><img class="album-thumb" onclick="openModal();currentSlide(8)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19733/content_2020-02-17-02_24_32.jpg" /></div></div>
+    <div class="col-xs-6 col-sm-4 col-md-3"><div class="album-thumb-container"><img class="album-thumb" onclick="openModal();currentSlide(9)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19734/content_2020-02-17-02_41_34.jpg" /></div></div>
+    <div class="col-xs-6 col-sm-4 col-md-3"><div class="album-thumb-container"><img class="album-thumb" onclick="openModal();currentSlide(10)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19735/content_2020-02-17-02_41_40.jpg" /></div></div>
+    <div class="col-xs-6 col-sm-4 col-md-3"><div class="album-thumb-container"><img class="album-thumb" onclick="openModal();currentSlide(11)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19736/content_2020-02-17-02_41_49.jpg" /></div></div>
+    <div class="col-xs-6 col-sm-4 col-md-3"><div class="album-thumb-container"><img class="album-thumb" onclick="openModal();currentSlide(12)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19737/content_2020-02-17-02_41_58.jpg" /></div></div>
+    <div class="col-xs-6 col-sm-4 col-md-3"><div class="album-thumb-container"><img class="album-thumb" onclick="openModal();currentSlide(13)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19738/content_2020-02-17-02_48_06.jpg" /></div></div>
+    <div class="col-xs-6 col-sm-4 col-md-3"><div class="album-thumb-container"><img class="album-thumb" onclick="openModal();currentSlide(14)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19739/content_2020-02-17-02_48_12.jpg" /></div></div>
+    <div class="col-xs-6 col-sm-4 col-md-3"><div class="album-thumb-container"><img class="album-thumb" onclick="openModal();currentSlide(15)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19740/content_2020-02-17-02_49_07.jpg" /></div></div>
+    <div class="col-xs-6 col-sm-4 col-md-3"><div class="album-thumb-container"><img class="album-thumb" onclick="openModal();currentSlide(16)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19741/content_2020-02-17-02_49_46.jpg" /></div></div>
+    <div class="col-xs-6 col-sm-4 col-md-3"><div class="album-thumb-container"><img class="album-thumb" onclick="openModal();currentSlide(17)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19743/content_2020-02-17-02_49_54.jpg" /></div></div>
+    <div class="col-xs-6 col-sm-4 col-md-3"><div class="album-thumb-container"><img class="album-thumb" onclick="openModal();currentSlide(18)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19742/content_2020-02-17-02_50_17.jpg" /></div></div>
+    <div class="col-xs-6 col-sm-4 col-md-3"><div class="album-thumb-container"><img class="album-thumb" onclick="openModal();currentSlide(19)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19744/content_2020-02-17-02_51_16.jpg" /></div></div>
+    <div class="col-xs-6 col-sm-4 col-md-3"><div class="album-thumb-container"><img class="album-thumb" onclick="openModal();currentSlide(20)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19745/content_2020-02-17-02_59_03.jpg" /></div></div>
+  </div>
+  <div class="row">
+    <div class="col-xs-12">
+      <a class="btn btn-info btn-sm btn-current mr-1" href="#responsive">1</a><a class="btn btn-info btn-sm mr-1" href="https://www.lelandmanagement.com/community_portal/content?id=19757">2</a><a class="btn btn-info btn-sm mr-1" href="https://www.lelandmanagement.com/community_portal/content?id=19758">3</a>
+    </div>
+  </div>
+</div>
+<div class="album-modal" id="albumModal">
+  <div class="album-modal-content">
+    <div class="album-slides"><img class="album-slide" onclick="openModal();currentSlide(1)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19726/content_2020-02-17-02_19_13.jpg" /></div>
+    <div class="album-slides"><img class="album-slide" onclick="openModal();currentSlide(2)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19728/content_2020-02-17-02_19_28.jpg" /></div>
+    <div class="album-slides"><img class="album-slide" onclick="openModal();currentSlide(3)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19727/content_2020-02-17-02_21_02.jpg" /></div>
+    <div class="album-slides"><img class="album-slide" onclick="openModal();currentSlide(4)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19729/content_2020-02-17-02_21_29.jpg" /></div>
+    <div class="album-slides"><img class="album-slide" onclick="openModal();currentSlide(5)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19730/content_2020-02-17-02_22_00.jpg" /></div>
+    <div class="album-slides"><img class="album-slide" onclick="openModal();currentSlide(6)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19731/content_2020-02-17-02_23_19.jpg" /></div>
+    <div class="album-slides"><img class="album-slide" onclick="openModal();currentSlide(7)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19732/content_2020-02-17-02_23_38.jpg" /></div>
+    <div class="album-slides"><img class="album-slide" onclick="openModal();currentSlide(8)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19733/content_2020-02-17-02_24_32.jpg" /></div>
+    <div class="album-slides"><img class="album-slide" onclick="openModal();currentSlide(9)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19734/content_2020-02-17-02_41_34.jpg" /></div>
+    <div class="album-slides"><img class="album-slide" onclick="openModal();currentSlide(10)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19735/content_2020-02-17-02_41_40.jpg" /></div>
+    <div class="album-slides"><img class="album-slide" onclick="openModal();currentSlide(11)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19736/content_2020-02-17-02_41_49.jpg" /></div>
+    <div class="album-slides"><img class="album-slide" onclick="openModal();currentSlide(12)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19737/content_2020-02-17-02_41_58.jpg" /></div>
+    <div class="album-slides"><img class="album-slide" onclick="openModal();currentSlide(13)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19738/content_2020-02-17-02_48_06.jpg" /></div>
+    <div class="album-slides"><img class="album-slide" onclick="openModal();currentSlide(14)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19739/content_2020-02-17-02_48_12.jpg" /></div>
+    <div class="album-slides"><img class="album-slide" onclick="openModal();currentSlide(15)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19740/content_2020-02-17-02_49_07.jpg" /></div>
+    <div class="album-slides"><img class="album-slide" onclick="openModal();currentSlide(16)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19741/content_2020-02-17-02_49_46.jpg" /></div>
+    <div class="album-slides"><img class="album-slide" onclick="openModal();currentSlide(17)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19743/content_2020-02-17-02_49_54.jpg" /></div>
+    <div class="album-slides"><img class="album-slide" onclick="openModal();currentSlide(18)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19742/content_2020-02-17-02_50_17.jpg" /></div>
+    <div class="album-slides"><img class="album-slide" onclick="openModal();currentSlide(19)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19744/content_2020-02-17-02_51_16.jpg" /></div>
+    <div class="album-slides"><img class="album-slide" onclick="openModal();currentSlide(20)" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19745/content_2020-02-17-02_59_03.jpg" /></div>
+    <div class="album-close-box"><a class="album-btn-close" onclick="closeModal()"><i class="far fa-window-close fa-2x"></i></a></div>
+    <div class="album-prev-box"><a class="album-prev" onclick="plusSlides(-1)"><i class="fas fa-arrow-left"></i></a></div><div class="album-next-box"><a class="album-next" onclick="plusSlides(1)"><i class="fas fa-arrow-right"></i></a></div>
+  </div>
+</div>
+<!--footer-->
+<div class="footer-quote">
+  <div class="container">
+    <div class="row" style="padding-bottom:0;">
+      <div class="col-xs-12 col-md-8 col-md-offset-2">
+        <p class="footer-quote-text" style="font-family: 'Crimson Pro', serif !important;">Located in the heart of Central Florida, Alaqua Lakes has all of the amenities you expect in a premier community</p>
+        <p class="footer-quote-sub-text">Welcome Home - There's no place like this!</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="footer">
+  <div class="container">
+    <div class="col-xs-12 text-center">
+      <p>3386 Lakeview Oaks Dr., Longwood, FL 32779<br />407-915-6001 | manager@alaqualakes.com</p>
+      <img class="footer-img" src="/system/communities/logo_images/000/001/330/original/al-logo-small.jpg?1613084739" alt="Alaqua Lakes" />
+    </div>
+  </div>
+</div>

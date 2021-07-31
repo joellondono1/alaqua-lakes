@@ -1,0 +1,91 @@
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 text-center">
+      <h1>Welcome to Alaqua Lakes</h1>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-12 text-center">
+      <h3 class="fancy-header" style="margin-top: -40px;">Alaqua Lakes is a prestigious gated community located in the heart of Central Florida</h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-12">
+      <h4>We are located in Longwood, Florida, approximately 15 miles north of Orlando and comprised of 750 acres of natural vegetation, wildlife and a family-friendly environment for all.</h4>
+      <p>From the impressive gated entry to the expansive community recreation area, Alaqua Lakes is a community you will be proud to call home. Taylor Woodrow, one of the largest developers and custom home builders in the world, began developing Alaqua Lakes in 1998. Our community has 514 extraordinary homes which were built by Central Florida’s premier builders and careful planning ensured that our impeccable landscaping complements the existing natural habitat. Quiet streets, most of which are cul-de-sacs, offer the perfect setting for walking, jogging, biking and glimpsing the wildlife that meander throughout our neighborhood.</p>
+      <p>Alaqua Lakes is within walking and biking distance of quaint shops. We have paved sidewalks and nearby bike trails which provide easy access to these amenities. Within a few miles’ radius, we have a large variety of grocery stores, theaters, gift shops and lots of restaurants – both casual and fine dining. The Seminole Wekiva Trail, an 18-mile-long recreation trail which extends from Altamonte Springs to the Wekiva River Protection Area, just west of Sanford, provides a paved path for bikers, joggers, skaters and walkers. Along the way, you may enjoy the beautiful natural scenery and choose to stop for lunch or dinner at one of the many restaurants located just off the trail.</p>
+      <p>Alaqua Lakes is proud to be located in an area of Seminole County which is assigned to some of the most highly recognized schools in the County. The schools which our children attend are Heathrow Elementary, Markham Woods Middle School and Lake Mary High School.</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-12 col-md-6">
+      <div class="panel panel-default">
+        <div class="panel-body" style="padding:1.3em;">
+          <h3 style="margin-top:0;">Are you an Alaqua Lakes Homeowner?</h3>
+          <p>If you are a resident of Lake Pinelock Village, click the button below to login. If you are resident but do not have a login, <a class="btn-link "href="https://www.lelandmanagement.com/community_sessions/register">click here to register.</a></p>
+          <a class="btn btn-info btn-lg" href="https://www.lelandmanagement.com/community_sessions/login"/>Login</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container-fluid mt-2">
+  <div class="row">
+    <div class="col-xs-12 col-sm-6 col-md-4 mb-2">
+      <a class="amenity-link" href="https://www.lelandmanagement.com/community_portal/content?id=19116"><img class="img-responsive" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19412/content_community.jpg" /></a>
+      <h3>Social Activities</h3>
+      <hr />
+      <p>Alaqua Lakes hosts a variety of social activities and events for adults and children throughout the year.</p>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-4 mb-2">
+      <a class="amenity-link" href="https://www.lelandmanagement.com/community_portal/content?id=19116#pool"><img class="img-responsive" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19414/content_community_pool.jpg" /></a>
+      <h3>Resort-style Pool</h3>
+      <hr />
+      <p>Our community has a resort style swimming pool, complete with changing facilities close by.</p>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-4 mb-2">
+      <a class="amenity-link" href="https://www.lelandmanagement.com/community_portal/content?id=19116#tennis"><img class="img-responsive" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19413/content_tennis.jpg" /></a>
+      <h3>Har-Tru Tennis Courts</h3>
+      <hr />
+      <p>Tennis enthusiasts will appreciate the 5 Har-Tru tennis courts which are lighted to allow play day or night.</p>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-4 mb-2">
+      <a class="amenity-link" href="https://www.lelandmanagement.com/community_portal/content?id=19116#playground"><img class="img-responsive" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19417/content_playground.jpg" /></a>
+      <h3>Playground</h3>
+      <hr />
+      <p>Fun for kids! Our community playground is an indispensable gathering space for children and parents.</p>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-4 mb-2">
+      <a class="amenity-link" href="https://www.lelandmanagement.com/community_portal/content?id=19116#gatehouse"><img class="img-responsive" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19415/content_gatehouse.jpg" /></a>
+      <h3>Gatehouse</h3>
+      <hr />
+      <p>Alaqua Lakes is a private gated community staffed with security personnel.</p>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-4 mb-2">
+      <a class="amenity-link" href="https://www.lelandmanagement.com/community_portal/content?id=19116#park"><img class="img-responsive" src="https://www.lelandmanagement.com/ckeditor_assets/pictures/19416/content_fields.jpg" /></a>
+      <h3>7-acre Community Park</h3>
+      <hr />
+      <p>Residents can enjoy the amenities of a unique 7-acre community park, including an open-air Pavilion.</p>
+    </div>
+  </div>
+</div>
+<div class="parallax"></div>
+<!--footer-->
+<div class="footer-quote" style="margin-top:-30px;">
+  <div class="container">
+    <div class="row" style="padding-bottom:0;">
+      <div class="col-xs-12 col-md-8 col-md-offset-2">
+        <p class="footer-quote-text" style="font-family: 'Crimson Pro', serif !important;">Located in the heart of central Florida, Alaqua Lakes has all of the amenities you expect in a premier community</p>
+        <p class="footer-quote-sub-text">Welcome Home - There's no place like this!</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="footer">
+  <div class="container">
+    <div class="col-xs-12 text-center">
+      <p>3386 Lakeview Oaks Dr., Longwood, FL 32779<br />407-915-6001 | manager@alaqualakes.com</p>
+      <img class="footer-img" src="/system/communities/logo_images/000/001/330/original/al-logo-small.jpg?1613084739" alt="Alaqua Lakes" />
+    </div>
+  </div>
+</div>

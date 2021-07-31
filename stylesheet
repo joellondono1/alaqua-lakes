@@ -1,0 +1,577 @@
+html {
+  scroll-behavior: smooth;
+}
+h1, .doc-tree-page-title {
+  font-family: 'Heebo', sans-serif;
+  color: #4d4d4d;
+  margin-bottom: .5em;
+  font-size: 2.4em;
+}
+h1.page-title {
+  color: #ffffff;
+}
+h2 {
+  font-family: 'Heebo', sans-serif !important;
+  color: #2980b9;
+  font-size: 1.7em !important;
+}
+h3, h4, h5, li, td, th, .btn, .efield_label {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.4;
+}
+.page-header {
+  padding: 2.6em 0 0;
+  margin: -20px 0 4em;
+  border-bottom: 1px solid #eee;
+  background-color: #747474;
+}
+.fancy-header {
+  font-family: 'Crimson Pro', serif;
+  font-style: italic;
+  font-size: 2em;
+  color: #b9afa1;
+}
+.fancy-text {
+  font-family: 'Crimson Pro', serif;
+  font-style: italic;
+  font-size: 1.6em;
+  color: #b9afa1;
+}
+.docs-template1 {
+  width: 100%;
+}
+.body-template4 p {
+  color: #4f4f4f;
+  font-family: 'Open Sans', sans-serif !important;
+}
+.body-template4 {
+  overflow-x: hidden;
+}
+.template5-title {
+  display: none;
+}
+.top-template4 {
+  height: 300px;
+}
+.top-template4, .full-slider, .template1-bg {
+  min-height: 300px !important;
+}
+.top-template4 a.return-home-btn {
+  display: none !important;
+}
+.above-top.t5 .above-top-content .left span {
+  display: none;
+}
+.above-top.t5 .above-top-content {
+  height: 70px;
+  max-width: 90%;
+}
+.above-top {
+  background-color: #ffffff !important;
+  box-shadow: 0px 2px 6px 0px #0000005e;
+}
+.above-top .above-top-content .right .menu-list ul li a {
+  color: #2b2b2b;
+  font-family: 'Open Sans', sans-serif;
+}
+.left img {
+  max-width: 250px;
+}
+i.menu-arrow.fa.fa-chevron-down.text-right {
+  color: #2b2b2b;
+}
+li.home-item img {
+  display: none;
+}
+.dropdown-submenu {
+  background: rgb(255 255 255) !important;
+  border: 1px solid #e7e7e7 !important;
+}
+.above-top .above-top-content .right .menu-list.t4 ul .dropdown-submenu li {
+  line-height: 1.3;
+}
+.above-top .above-top-content .right .menu-list ul .dropdown-submenu li.submenu a {
+  color: #2b2b2b !important;
+}
+.sidebar-template1 {
+  display: none;
+}
+.spacer {
+  padding: 1.2em;
+}
+.mt-1 {
+  margin-top: 1em;
+}
+.mt-2 {
+  margin-top: 1.5em;
+}
+.mt-3 {
+  margin-top: 2em;
+}
+.mt-4 {
+  margin-top: 2.5em;
+}
+.mt-5 {
+  margin-top: 3em;
+}
+.mr-1 {
+  margin-right: 1em;
+}
+.mr-2 {
+  margin-right: 1.5em;
+}
+.mr-3 {
+  margin-right: 2em;
+}
+.mr-4 {
+  margin-right: 2.5em;
+}
+.mr-5 {
+  margin-right: 3em;
+}
+.mb-1 {
+  margin-bottom: 1em;
+}
+.mb-2 {
+  margin-bottom: 1.5em;
+}
+.mb-3 {
+  margin-bottom: 2em;
+}
+.mb-4 {
+  margin-bottom: 2.5em;
+}
+.mb-5 {
+  margin-bottom: 3em;
+}
+.ml-1 {
+  margin-left: 1em;
+}
+.ml-2 {
+  margin-left: 1.5em;
+}
+.ml-3 {
+  margin-left: 2em;
+}
+.ml-4 {
+  margin-left: 2.5em;
+}
+.ml-5 {
+  margin-left: 3em;
+}
+.btn, .btn-lg {
+  border-radius: 0;
+}
+.btn-current {
+  background-color: #747474;
+  border-color: #747474;
+}
+.btn-current:hover, .btn-current:focus, .btn-current:active {
+  background-color: #747474;
+  border-color: #747474;
+}
+.amenity-link {
+  transition: top ease 0.3s;
+}
+.amenity-link:hover {
+  cursor: pointer;
+  text-decoration: none;
+  top:-7px;
+}
+.fwb-light {
+  background-color: #f1f1f1;
+  padding: 5em 0 3em;
+}
+.amenity-row, .hoa-row {
+  display: flex;
+  flex-direction: column;
+}
+.hoa-div {
+  min-height: 300px;
+  background-size: cover;
+  background-position: center;
+}
+.amenity-div {
+  min-height: 400px;
+  background-size: cover;
+  background-position: center;
+  margin-top: 2em;
+}
+.anchor {
+  display: block;
+  position: relative;
+  top: -250px;
+  visibility: hidden;
+}
+.social {
+  background-image: url("https://www.lelandmanagement.com/ckeditor_assets/pictures/19412/content_community.jpg");
+}
+.pool {
+  background-image: url("https://www.lelandmanagement.com/ckeditor_assets/pictures/19414/content_community_pool.jpg");
+}
+.tennis {
+  background-image: url("https://www.lelandmanagement.com/ckeditor_assets/pictures/19413/content_tennis.jpg");
+}
+.playground {
+  background-image: url("https://www.lelandmanagement.com/ckeditor_assets/pictures/19417/content_playground.jpg");
+}
+.gatehouse {
+  background-image: url("https://www.lelandmanagement.com/ckeditor_assets/pictures/19415/content_gatehouse.jpg");
+}
+.park {
+  background-image: url("https://www.lelandmanagement.com/ckeditor_assets/pictures/19416/content_fields.jpg");
+}
+.hoa {
+  background-image: url("https://www.lelandmanagement.com/ckeditor_assets/pictures/19433/content_fountain.jpg");
+}
+.faq {
+  border: none;
+  box-shadow: none;
+}
+.panel-default>.faq-heading {
+  background-color: #ffffff;
+  border-bottom: 1px solid #ddd
+}
+.faq-heading {
+  padding: 0;
+}
+.faq-title a {
+  display: block;
+  padding: 1.3em 0;
+}
+.faq-title a:hover {
+  color: #b9afa1;
+  text-decoration: none;
+}
+.panel-default>.panel-heading+.panel-collapse>.faq-body {
+  border-top: none;
+  text-align: left;
+}
+.faq-body {
+  padding: 1em 0;
+  font-family: 'Open Sans', sans-serif !important;
+}
+.fa-minus, .fa-plus {
+  float: right;
+  color: #b9afa1;
+}
+a[aria-expanded=true] .fa-plus {
+  display: none;
+}
+a[aria-expanded=false] .fa-minus {
+  display: none;
+}
+.cam-contact {
+  display: flex;
+  flex-direction: column;
+}
+.cam-img {
+  max-width: 150px;
+  margin-bottom: 1.3em;
+  margin-right: 10px;
+  margin-left: -20px;
+}
+.quick-button {
+  position: relative;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2em;
+  margin: 1em 0;
+  background-color: #eeeeee;
+  color: #747474;
+  transition: top ease 0.3s;
+}
+.quick-button:hover {
+  text-decoration: none;
+  background-color: #eeeeee;
+  color: #747474;
+  top:-7px;
+}
+.parallax {
+  background-image: url("https://www.lelandmanagement.com/system/community_slideshows/slideshow_banners/000/001/617/original/guardhouse.jpg?1613606281");
+  height: 300px;
+  background-attachment: inherit;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 30px;
+}
+.sign-parallax {
+  background-image: url("https://www.lelandmanagement.com/system/community_slideshows/slideshow_banners/000/001/618/original/fountain___sign.jpg?1613687720");
+}
+.album-thumb {
+  width: 100%;
+  object-fit: cover;
+}
+.album-thumb-container {
+  display: flex;
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+  margin-bottom: 1.5em;
+}
+.album-slide {
+  width: 100%;
+  height: auto;
+}
+.album-modal {
+  display: none;
+  position: fixed;
+  z-index: 10;
+  padding-top: 100px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0 0 0 / 34%)
+}
+.album-modal-content {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  max-width: 1000px;
+}
+.album-controls {
+  background-color: rgba(0, 0, 0, 0.38);
+  border-top: 1px solid rgba(255, 255, 255, 0.28);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+}
+.album-btn-close {
+  margin: 8px;
+  color: #ffffff;
+  cursor: pointer;
+}
+.album-btn-close:hover {
+  color: #ffffff;
+}
+.album-close-box {
+  position: absolute;
+  top: 2%;
+  right: 0;
+}
+.album-prev-box {
+  position: absolute;
+  top: 50%;
+  left: 0;
+}
+.album-next-box {
+  position: absolute;
+  top: 50%;
+  right: 0;
+}
+.album-slides {
+  display: none;
+}
+.cursor {
+  cursor: pointer;
+}
+.album-prev, .album-next {
+  cursor: pointer;
+  width: auto;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+  z-index: 1;
+}
+.album-next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+.album-prev:hover,
+.album-next:hover {
+  text-decoration: none !important;
+  color: #fff !important;
+}
+.demo {
+  opacity: 0.6;
+}
+.active,
+.demo:hover {
+  opacity: 1;
+}
+.album-thumb-shadow {
+  transition: 0.3s;
+}
+.album-thumb:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  cursor: pointer;
+}
+.footer {
+  border-top: .5em solid #eeeeee;
+  padding-top: 1em;
+}
+.footer-img {
+  width: 100%;
+  max-width: 250px;
+  margin-top: 1.5em;
+}
+.footer-quote {
+  background-color: #747474;
+  padding: 4em 0 2.7em;
+  margin-top: 5em;
+}
+.footer-quote-text {
+  font-size: 1.7em;
+  font-style: italic;
+  color: #ffffff !important;
+}
+.footer-quote-sub-text {
+  font-size: .9em;
+  color: #ffffff !important;
+  text-align: center;
+}
+.amenity-footer-quote {
+  margin-top: -32px;
+}
+.classified-image {
+	width: 100%;
+	max-width: 400px;
+	min-width: 150px;
+}
+@media only screen and (min-width: 600px) {
+  .album-slide {
+    width: auto;
+    max-height: 100vh;
+  }
+  .album-modal-content {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: auto;
+    max-width: 1000px;
+  }
+}
+@media only screen and (min-width: 767px) {
+  .above-top.t5 .above-top-content .left img {
+    max-height: 60px;
+  }
+  .above-top .above-top-content .right .menu-list ul li {
+    height: 100% !important;
+    line-height: 3;
+  }
+  .menu-list.t4 .toggle-sub .fa {
+    line-height: 69px;
+  }
+  .t5-dropdown-submenu {
+    top: 60px !important;
+  }
+  i.menu-arrow.fa.fa-chevron-left.text-right {
+    line-height: 35px;
+    color: #2b2b2b;
+  }
+  .top-template4 {
+    height:100vh;
+  }
+  .top-template4, .full-slider, .template1-bg {
+    min-height: 100vh !important;
+  }
+  .amenity-div {
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+  }
+  .hoa-div {
+    min-height: 500px;
+  }
+}
+@media only screen and (min-width: 991px) {
+  .spacer {
+    padding: 2.2em;
+  }
+  .amenity-row, .hoa-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 0 !important;
+  }
+  .amenity-footer-quote {
+    margin-top: 0;
+  }
+  .amenity-div {
+    margin-top: 0;
+  }
+  .parallax {
+    background-attachment: fixed;
+    height: 500px;
+  }
+  .hoa-div {
+    min-height: 1000px;
+  }
+  .footer-quote-sub-text {
+    text-align: right;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  h1 {
+    font-size: 3em;
+    margin-bottom: .7em;
+  }
+  .above-top-content {
+    max-width: 80%;
+  }
+  .top-template4 {
+    height: 100vh;
+  }
+  .top-template4, .full-slider, .template1-bg {
+    min-height: 100vh;
+  }
+  .flex-row {
+    display: flex;
+    align-items: center;
+  }
+  .amenity-div {
+    min-height: 625px;
+    background-size: cover;
+    background-position: center;
+  }
+  .member h3 {
+    font-size: 24px;
+  }
+  .cam-contact {
+    align-items: center;
+    flex-direction: row;
+  }
+  .footer {
+    padding-top: 2.5em;
+  }
+  .footer-img {
+    margin-top: 0;
+  }
+  .footer-quote-text {
+    font-size: 2em;
+  }
+}
+@media (min-width:1200px) {
+  .docs-template1 {
+    margin-top: 30px;
+  }
+  .page-header {
+    margin: 40px 0 4em;
+  }
+}
+#top {display: none;
+  background-color: rgb(15 15 15 / 49%);
+  color: #fff;
+  border: none;
+  border-radius: .2em;
+  font-size: 16px;
+  position: fixed;
+  bottom: 35px;
+  right: 35px;
+  z-index: 99;
+  cursor: pointer;
+}
